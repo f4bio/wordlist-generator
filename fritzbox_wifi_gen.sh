@@ -1,6 +1,6 @@
 #!/bin/sh
 
-outFile="firtzbox_wifi.lst"
+outFile="fritzbox_wifi.lst"
 passCount=0
 
 rm -f $outFile

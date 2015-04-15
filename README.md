@@ -1,2 +1,1 @@
-# PROJECT NAME
-PROJECT DESCRIPTION
+# Wordlist Generator
