@@ -13,6 +13,7 @@ for first in {1000..9999}; do
 				printf "%04d%04d%04d%04d\n" "$first" "$second" "$third" "$forth" | tee -a firtzbox_wifi.lst > /dev/null
 				passCount=$((passCount+1))
 			done
+			echo "$passCount passwords generated..."
 		done
 		echo "$passCount passwords generated..."
 	done
